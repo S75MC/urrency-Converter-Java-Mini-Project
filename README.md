@@ -1,1 +1,1 @@
-[Uploading System_Architecture_for_Currency_Converter_Application.pdf…]()
+[System_Architecture_for_Currency_Converter_Application.pdf](https://github.com/user-attachments/files/17487585/System_Architecture_for_Currency_Converter_Application.pdf)
